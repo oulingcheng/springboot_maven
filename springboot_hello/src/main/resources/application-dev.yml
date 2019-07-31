@@ -1,0 +1,3 @@
+resource:
+  imageServer: http://dev.image.qianfeng.com
+  emailServer: http://dev.email.qianfeng.com

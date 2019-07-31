@@ -1,0 +1,12 @@
+spring:
+  jackson:
+    date-format: yyyy-MM-dd
+    time-zone: GMT+8
+  mvc:
+    date-format: yyyy-MM-dd
+  profiles:
+    active: dev
+server:
+  servlet:
+    context-path: /
+  port: 9999
